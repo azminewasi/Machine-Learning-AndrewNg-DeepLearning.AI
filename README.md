@@ -8,6 +8,13 @@
 
 ---
 
+## My Specilization Certificate 
+</br>
+
+![](Machine-Learning-Specialization-Coursera-4BECYAW92RGB.jpg)
+
+---
+
 ## WHAT YOU WILL LEARN
 
 - Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
